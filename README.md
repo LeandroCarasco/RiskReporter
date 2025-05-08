@@ -6,6 +6,7 @@ Um aplicativo simples e intuitivo com o objetivo de minimizar acidentes no ambie
 
 - ✅ Cadastro/Login do funcionário
 - ✅ Report de riscos (inserção de imagens, localização e descrição do problema)
+- ✅ Relatório dos riscos já cadastrados
 
 ## 🚀 Tecnologias utilizadas
 
